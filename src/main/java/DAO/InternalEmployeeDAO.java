@@ -1,8 +1,8 @@
 package DAO;
 
-public class InternalPersonDAO extends PersonDAO {
+public class InternalEmployeeDAO extends PersonDAO {
 
-    public InternalPersonDAO() {
+    public InternalEmployeeDAO() {
         super("src/main/resources/internal_employees.xml");
     }
 }

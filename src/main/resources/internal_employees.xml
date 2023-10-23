@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><people><person><personId>4</personId><firstName>Susan</firstName><lastName>Williams</lastName><mobile>333-111-4444</mobile><email>susan.williams@example.com</email><pesel>33311144443</pesel></person><person><personId>5</personId><firstName>Michael</firstName><lastName>Smith</lastName><mobile>222-555-7777</mobile><email>michael.smith@example.com</email><pesel>22255577776</pesel></person><person><personId>6</personId><firstName>Laura</firstName><lastName>Johnson</lastName><mobile>444-888-9999</mobile><email>laura.johnson@example.com</email><pesel>44488899998</pesel></person></people>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<people>
+    <person>
+        <personId>4</personId>
+        <firstName>Connor</firstName>
+        <lastName>McGregor</lastName>
+        <mobile>333-111-4444</mobile>
+        <email>connor.mcgregor@example.com</email>
+        <pesel>33311144443</pesel>
+    </person>
+    <person>
+        <personId>5</personId>
+        <firstName>Michael</firstName>
+        <lastName>Smith</lastName>
+        <mobile>222-555-7777</mobile>
+        <email>michael.smith@example.com</email>
+        <pesel>22255577776</pesel>
+    </person>
+    <person>
+        <personId>6</personId>
+        <firstName>Micky</firstName>
+        <lastName>Johnson</lastName>
+        <mobile>444-888-9999</mobile>
+        <email>micky.johnson@example.com</email>
+        <pesel>44488899998</pesel>
+    </person>
+</people>
